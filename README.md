@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Bill</h1>
-<h3 align="center">I'm a certified Salesforce developer and Email Marketing Manager</h3>
+<h3 align="center">I'm a certified Salesforce developer and Email Marketing Expert</h3>
 
-- 💬 Ask me anything about **salesforce marketing cloud**
+- 💬 Ask me anything about **salesforce Marketing Cloud**
 
 - 📫 You can reach me at **bill [at] thirteenpixels.com**
 
