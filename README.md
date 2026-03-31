@@ -14,7 +14,7 @@
       alt="thirteenpixels" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<!--h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img
   src="https://raw.githubusercontent.com/thirteenpixels/thirteenpixels/main/salesforce-ar21.svg"
   alt="11ty" width="40" height="40" /> </a> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img
@@ -98,4 +98,4 @@
   </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
       alt="typescript" width="40" height="40" /> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a> </p>
+    <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a> </p-->
